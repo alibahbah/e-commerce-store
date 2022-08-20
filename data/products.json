@@ -1,1 +1,9 @@
-[{"title":"A Book","imageUrl":"https://i0.wp.com/upstartpress.co.nz/wp-content/uploads/2014/11/Open-Book.jpg?ssl=1","description":"This is a very old book!","price":"19"}]
+[
+  {
+    "id": "314315",
+    "title": "A Book",
+    "imageUrl": "https://i0.wp.com/upstartpress.co.nz/wp-content/uploads/2014/11/Open-Book.jpg?ssl=1",
+    "description": "This is a very old book!",
+    "price": "19"
+  }
+]
